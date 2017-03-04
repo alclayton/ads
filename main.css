@@ -1,0 +1,114 @@
+header {
+    max-width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background: url(http://4.bp.blogspot.com/-La2nI4EyrHI/VBOtwM-DIPI/AAAAAAAABNs/b3tGLCLjwKo/s1600/021.JPG);
+}
+
+body {
+    width: auto;
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 60%;
+    background-color: #ffffff;
+    padding-top: 35px;
+    padding-bottom:35px;
+
+}
+
+.postimg {
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+img {
+    max-width: 100%;
+    border: 2px solid #858585;
+}
+
+.posttitle {
+    padding-left: 5%;
+    max-width: 90%;
+}
+
+.posttext {
+    padding-left: 5%;
+    max-width: 90%;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+    font-weight: 700;
+}
+
+a:visited {
+    color: black;
+    font-weight: 700;
+}
+
+footer {
+    max-width: 90%;
+    background-color: #778899;
+    margin: 0 auto;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    height: 200px;
+}
+
+.wtf {
+    width: 100px;
+    background-color: green;
+    margin: 0 auto;
+}
+
+span {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
